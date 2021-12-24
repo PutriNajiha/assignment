@@ -48,33 +48,19 @@ public class payment extends javax.swing.JFrame {
 
         jLabel2.setText("ROOM NUMBER");
 
-        jTextField1.setText("jTextField1");
-
         jButton1.setText("SEARCH");
 
         jLabel3.setText("TRANSACTION ID");
 
-        jTextField2.setText("jTextField2");
-
         jLabel4.setText("NUMBER OF DAYS STAY");
-
-        jTextField3.setText("jTextField3");
 
         jLabel5.setText("CHECK IN DATE");
 
-        jTextField4.setText("jTextField4");
-
         jLabel6.setText("CHECK OUT DATE");
-
-        jTextField5.setText("jTextField5");
 
         jLabel7.setText("PRICE PER DAY");
 
-        jTextField6.setText("jTextField6");
-
         jLabel8.setText("AMOUNT TO PAID");
-
-        jTextField7.setText("jTextField7");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
